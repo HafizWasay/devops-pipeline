@@ -1,0 +1,20 @@
+{
+  "name": "devops-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HafizWasay/devops-pipeline.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HafizWasay/devops-pipeline/issues"
+  },
+  "homepage": "https://github.com/HafizWasay/devops-pipeline#readme"
+}
